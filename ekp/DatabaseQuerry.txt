@@ -1,0 +1,63 @@
+select * from statistic
+
+select * from questions
+
+select * from student
+/*drop table student;*/
+create table student
+	(student_id		varchar(25),
+	 username		varchar(25),
+	 password		varchar(25),
+	 quest_1		int DEFAULT 0,
+	 quest_2		int DEFAULT 0,
+	 quest_3		int DEFAULT 0,
+	 quest_4		int DEFAULT 0,
+	 quest_5		int DEFAULT 0,
+	 quest_6		int DEFAULT 0,
+	 quest_7		int DEFAULT 0,
+	 quest_8		int DEFAULT 0,
+	 quest_9		int DEFAULT 0,
+	 quest_10		int DEFAULT 0,
+	 quest_11		int DEFAULT 0,
+	 quest_12		int DEFAULT 0,
+	 quest_13		int DEFAULT 0,
+	 quest_14		int DEFAULT 0,
+	 quest_15		int DEFAULT 0,
+	 quest_16		int DEFAULT 0,
+	 quest_17		int DEFAULT 0,
+	 quest_18		int DEFAULT 0,
+	 quest_19		int DEFAULT 0,
+	 quest_20		int DEFAULT 0,
+	 quest_21		int DEFAULT 0,
+	 quest_22		int DEFAULT 0,
+	 quest_23		int DEFAULT 0,
+	 quest_24		int DEFAULT 0,
+	 quest_25		int DEFAULT 0,
+	 quest_26		int DEFAULT 0,
+	 quest_27		int DEFAULT 0,
+	 quest_28		int DEFAULT 0,
+	 quest_29		int DEFAULT 0,
+	 quest_30		int DEFAULT 0
+
+	
+	 
+	 primary key (student_id),
+
+	);
+
+	/*drop table statistic;*/
+
+	create table statistic
+	(grade 			varchar(25) DEFAULT 0,
+	username		varchar(25),
+	chapter1	    float DEFAULT 0,
+	chapter1_counter int DEFAULT 0,
+	chapter2        float DEFAULT 0,
+	chapter2_counter int DEFAULT 0,
+	chapter3        float DEFAULT 0,
+	chapter3_counter int DEFAULT 0,
+	all_chapters    float DEFAULT 0,
+	all_chapters_counter int DEFAULT 0,
+	primary key (username),
+
+	);

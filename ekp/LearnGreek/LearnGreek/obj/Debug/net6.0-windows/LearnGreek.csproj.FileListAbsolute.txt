@@ -1,0 +1,212 @@
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.exe
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.deps.json
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.runtimeconfig.json
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.dll
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.pdb
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.AssemblyReference.cache
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Form1.resources
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.GenerateResource.cache
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.AssemblyInfoInputs.cache
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.AssemblyInfo.cs
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.CoreCompileInputs.cache
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.dll
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\refint\LearnGreek.dll
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.pdb
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.genruntimeconfig.cache
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\ref\LearnGreek.dll
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Properties.Resources.resources
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Form2.resources
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory1.resources
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Test1.resources
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory2.resources
+C:\Users\niktz\source\repos\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory3.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.exe
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.deps.json
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.runtimeconfig.json
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.pdb
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.AssemblyReference.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Form1.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Form2.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Properties.Resources.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Test1.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory1.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory2.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory3.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.GenerateResource.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.AssemblyInfoInputs.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.AssemblyInfo.cs
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.CoreCompileInputs.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\refint\LearnGreek.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.pdb
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.genruntimeconfig.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\ref\LearnGreek.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Login.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.CopyComplete
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.exe
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.deps.json
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.runtimeconfig.json
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.pdb
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.AssemblyReference.cache
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Form1.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Form2.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Login.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Properties.Resources.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Test1.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory1.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory2.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory3.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.GenerateResource.cache
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.AssemblyInfoInputs.cache
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.AssemblyInfo.cs
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.CoreCompileInputs.cache
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.CopyComplete
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\refint\LearnGreek.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.pdb
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.genruntimeconfig.cache
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\ref\LearnGreek.dll
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.SignUp.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Grade.resources
+C:\Users\niktz\Downloads\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Proodos.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.exe
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.deps.json
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.runtimeconfig.json
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\LearnGreek.pdb
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.AssemblyReference.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Form1.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Form2.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Grade.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Login.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Proodos.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Properties.Resources.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.SignUp.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Test1.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory1.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory2.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.Theory3.resources
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.GenerateResource.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.AssemblyInfoInputs.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.AssemblyInfo.cs
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.CoreCompileInputs.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.csproj.CopyComplete
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\refint\LearnGreek.dll
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.pdb
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\LearnGreek.genruntimeconfig.cache
+C:\Users\danah\Documents\sxoli\Ekpaideutiko logismiko\ekp\LearnGreek\LearnGreek\obj\Debug\net6.0-windows\ref\LearnGreek.dll
